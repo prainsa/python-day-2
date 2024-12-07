@@ -1,5 +1,0 @@
-print("sonic the hedgehog")
-print(12)
-print("shadow the hedgehog", 12)
-print(12+89)
-print("tails miles prower \n")
